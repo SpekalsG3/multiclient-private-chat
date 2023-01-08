@@ -36,7 +36,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "server-client-file"
+name = "multiclient-private-chat"
 version = "0.1.0"
 dependencies = [
  "mio",
